@@ -1,0 +1,7 @@
+C:\Users\gummi\source\repos\3Fordon\3Fordon\bin\Debug\3Fordon.exe.config
+C:\Users\gummi\source\repos\3Fordon\3Fordon\bin\Debug\3Fordon.exe
+C:\Users\gummi\source\repos\3Fordon\3Fordon\bin\Debug\3Fordon.pdb
+C:\Users\gummi\source\repos\3Fordon\3Fordon\obj\Debug\3Fordon.csprojAssemblyReference.cache
+C:\Users\gummi\source\repos\3Fordon\3Fordon\obj\Debug\3Fordon.csproj.CoreCompileInputs.cache
+C:\Users\gummi\source\repos\3Fordon\3Fordon\obj\Debug\3Fordon.exe
+C:\Users\gummi\source\repos\3Fordon\3Fordon\obj\Debug\3Fordon.pdb

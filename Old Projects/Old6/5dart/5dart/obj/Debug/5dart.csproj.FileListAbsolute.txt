@@ -1,0 +1,9 @@
+C:\Users\gummi\source\repos\5dart\5dart\bin\Debug\5dart.exe
+C:\Users\gummi\source\repos\5dart\5dart\bin\Debug\5dart.pdb
+C:\Users\gummi\source\repos\5dart\5dart\obj\Debug\5dart.csprojAssemblyReference.cache
+C:\Users\gummi\source\repos\5dart\5dart\obj\Debug\_5dart.Form1.resources
+C:\Users\gummi\source\repos\5dart\5dart\obj\Debug\_5dart.Properties.Resources.resources
+C:\Users\gummi\source\repos\5dart\5dart\obj\Debug\5dart.csproj.GenerateResource.cache
+C:\Users\gummi\source\repos\5dart\5dart\obj\Debug\5dart.csproj.CoreCompileInputs.cache
+C:\Users\gummi\source\repos\5dart\5dart\obj\Debug\5dart.exe
+C:\Users\gummi\source\repos\5dart\5dart\obj\Debug\5dart.pdb

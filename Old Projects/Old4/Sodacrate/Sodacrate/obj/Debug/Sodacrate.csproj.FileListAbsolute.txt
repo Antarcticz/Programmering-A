@@ -1,0 +1,14 @@
+C:\Users\gummi\source\repos\Sodacrate\Sodacrate\bin\Debug\Sodacrate.exe.config
+C:\Users\gummi\source\repos\Sodacrate\Sodacrate\bin\Debug\Sodacrate.exe
+C:\Users\gummi\source\repos\Sodacrate\Sodacrate\bin\Debug\Sodacrate.pdb
+C:\Users\gummi\source\repos\Sodacrate\Sodacrate\obj\Debug\Sodacrate.csprojAssemblyReference.cache
+C:\Users\gummi\source\repos\Sodacrate\Sodacrate\obj\Debug\Sodacrate.csproj.CoreCompileInputs.cache
+C:\Users\gummi\source\repos\Sodacrate\Sodacrate\obj\Debug\Sodacrate.exe
+C:\Users\gummi\source\repos\Sodacrate\Sodacrate\obj\Debug\Sodacrate.pdb
+E:\Sodacrate\Sodacrate\bin\Debug\Sodacrate.exe.config
+E:\Sodacrate\Sodacrate\bin\Debug\Sodacrate.exe
+E:\Sodacrate\Sodacrate\bin\Debug\Sodacrate.pdb
+E:\Sodacrate\Sodacrate\obj\Debug\Sodacrate.csprojAssemblyReference.cache
+E:\Sodacrate\Sodacrate\obj\Debug\Sodacrate.csproj.CoreCompileInputs.cache
+E:\Sodacrate\Sodacrate\obj\Debug\Sodacrate.exe
+E:\Sodacrate\Sodacrate\obj\Debug\Sodacrate.pdb

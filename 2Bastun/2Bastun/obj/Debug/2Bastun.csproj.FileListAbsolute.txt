@@ -1,0 +1,7 @@
+C:\Users\gummi\source\repos\2Bastun\2Bastun\bin\Debug\2Bastun.exe.config
+C:\Users\gummi\source\repos\2Bastun\2Bastun\bin\Debug\2Bastun.exe
+C:\Users\gummi\source\repos\2Bastun\2Bastun\bin\Debug\2Bastun.pdb
+C:\Users\gummi\source\repos\2Bastun\2Bastun\obj\Debug\2Bastun.csprojAssemblyReference.cache
+C:\Users\gummi\source\repos\2Bastun\2Bastun\obj\Debug\2Bastun.csproj.CoreCompileInputs.cache
+C:\Users\gummi\source\repos\2Bastun\2Bastun\obj\Debug\2Bastun.exe
+C:\Users\gummi\source\repos\2Bastun\2Bastun\obj\Debug\2Bastun.pdb

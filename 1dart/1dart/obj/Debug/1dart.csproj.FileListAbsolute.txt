@@ -1,0 +1,21 @@
+C:\Users\gummi\source\repos\1dart\1dart\bin\Debug\1dart.exe.config
+C:\Users\gummi\source\repos\1dart\1dart\bin\Debug\1dart.exe
+C:\Users\gummi\source\repos\1dart\1dart\bin\Debug\1dart.pdb
+C:\Users\gummi\source\repos\1dart\1dart\obj\Debug\1dart.csprojAssemblyReference.cache
+C:\Users\gummi\source\repos\1dart\1dart\obj\Debug\1dart.csproj.CoreCompileInputs.cache
+C:\Users\gummi\source\repos\1dart\1dart\obj\Debug\1dart.exe
+C:\Users\gummi\source\repos\1dart\1dart\obj\Debug\1dart.pdb
+C:\Users\gummi\source\repos\pg2 - inlämning 2\1dart\1dart\bin\Debug\1dart.exe.config
+C:\Users\gummi\source\repos\pg2 - inlämning 2\1dart\1dart\bin\Debug\1dart.exe
+C:\Users\gummi\source\repos\pg2 - inlämning 2\1dart\1dart\bin\Debug\1dart.pdb
+C:\Users\gummi\source\repos\pg2 - inlämning 2\1dart\1dart\obj\Debug\1dart.csprojAssemblyReference.cache
+C:\Users\gummi\source\repos\pg2 - inlämning 2\1dart\1dart\obj\Debug\1dart.csproj.CoreCompileInputs.cache
+C:\Users\gummi\source\repos\pg2 - inlämning 2\1dart\1dart\obj\Debug\1dart.exe
+C:\Users\gummi\source\repos\pg2 - inlämning 2\1dart\1dart\obj\Debug\1dart.pdb
+E:\1dart\1dart\bin\Debug\1dart.exe.config
+E:\1dart\1dart\bin\Debug\1dart.exe
+E:\1dart\1dart\bin\Debug\1dart.pdb
+E:\1dart\1dart\obj\Debug\1dart.csprojAssemblyReference.cache
+E:\1dart\1dart\obj\Debug\1dart.csproj.CoreCompileInputs.cache
+E:\1dart\1dart\obj\Debug\1dart.exe
+E:\1dart\1dart\obj\Debug\1dart.pdb

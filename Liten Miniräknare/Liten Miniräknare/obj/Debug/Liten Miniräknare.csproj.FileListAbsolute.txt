@@ -1,0 +1,7 @@
+C:\Users\gummi\source\repos\Liten Miniräknare\Liten Miniräknare\bin\Debug\Liten Miniräknare.exe.config
+C:\Users\gummi\source\repos\Liten Miniräknare\Liten Miniräknare\bin\Debug\Liten Miniräknare.exe
+C:\Users\gummi\source\repos\Liten Miniräknare\Liten Miniräknare\bin\Debug\Liten Miniräknare.pdb
+C:\Users\gummi\source\repos\Liten Miniräknare\Liten Miniräknare\obj\Debug\Liten Miniräknare.csprojAssemblyReference.cache
+C:\Users\gummi\source\repos\Liten Miniräknare\Liten Miniräknare\obj\Debug\Liten Miniräknare.csproj.CoreCompileInputs.cache
+C:\Users\gummi\source\repos\Liten Miniräknare\Liten Miniräknare\obj\Debug\Liten Miniräknare.exe
+C:\Users\gummi\source\repos\Liten Miniräknare\Liten Miniräknare\obj\Debug\Liten Miniräknare.pdb

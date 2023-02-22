@@ -1,0 +1,7 @@
+C:\Users\gummi\source\repos\pg1\pg1\bin\Debug\pg1.exe.config
+C:\Users\gummi\source\repos\pg1\pg1\bin\Debug\pg1.exe
+C:\Users\gummi\source\repos\pg1\pg1\bin\Debug\pg1.pdb
+C:\Users\gummi\source\repos\pg1\pg1\obj\Debug\pg1.csprojAssemblyReference.cache
+C:\Users\gummi\source\repos\pg1\pg1\obj\Debug\pg1.csproj.CoreCompileInputs.cache
+C:\Users\gummi\source\repos\pg1\pg1\obj\Debug\pg1.exe
+C:\Users\gummi\source\repos\pg1\pg1\obj\Debug\pg1.pdb

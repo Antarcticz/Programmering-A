@@ -1,0 +1,45 @@
+﻿Adam Total score 308 by Turn: 
+2 | Dart1: 2 | Dart2: 5 | Dart3: 8 | 
+4 | Dart1: 10 | Dart2: 4 | Dart3: 4 | 
+6 | Dart1: 9 | Dart2: 6 | Dart3: 6 | 
+8 | Dart1: 0 | Dart2: 1 | Dart3: 1 | 
+10 | Dart1: 7 | Dart2: 4 | Dart3: 0 | 
+12 | Dart1: 7 | Dart2: 1 | Dart3: 8 | 
+14 | Dart1: 1 | Dart2: 3 | Dart3: 9 | 
+16 | Dart1: 0 | Dart2: 0 | Dart3: 4 | 
+18 | Dart1: 5 | Dart2: 3 | Dart3: 0 | 
+20 | Dart1: 9 | Dart2: 1 | Dart3: 7 | 
+22 | Dart1: 4 | Dart2: 6 | Dart3: 4 | 
+24 | Dart1: 1 | Dart2: 5 | Dart3: 5 | 
+26 | Dart1: 2 | Dart2: 1 | Dart3: 7 | 
+28 | Dart1: 10 | Dart2: 4 | Dart3: 8 | 
+30 | Dart1: 9 | Dart2: 1 | Dart3: 7 | 
+32 | Dart1: 3 | Dart2: 7 | Dart3: 7 | 
+34 | Dart1: 8 | Dart2: 6 | Dart3: 7 | 
+36 | Dart1: 9 | Dart2: 8 | Dart3: 0 | 
+38 | Dart1: 5 | Dart2: 9 | Dart3: 0 | 
+40 | Dart1: 4 | Dart2: 7 | Dart3: 8 | 
+42 | Dart1: 6 | Dart2: 5 | Dart3: 10 | 
+Eva Total score 304 by Turn: 
+2 | Dart1: 4 | Dart2: 6 | Dart3: 4 | 
+4 | Dart1: 0 | Dart2: 4 | Dart3: 9 | 
+6 | Dart1: 5 | Dart2: 7 | Dart3: 1 | 
+8 | Dart1: 1 | Dart2: 8 | Dart3: 3 | 
+10 | Dart1: 3 | Dart2: 0 | Dart3: 9 | 
+12 | Dart1: 4 | Dart2: 0 | Dart3: 10 | 
+14 | Dart1: 10 | Dart2: 5 | Dart3: 1 | 
+16 | Dart1: 3 | Dart2: 7 | Dart3: 4 | 
+18 | Dart1: 6 | Dart2: 4 | Dart3: 2 | 
+20 | Dart1: 4 | Dart2: 7 | Dart3: 1 | 
+22 | Dart1: 5 | Dart2: 4 | Dart3: 2 | 
+24 | Dart1: 7 | Dart2: 3 | Dart3: 3 | 
+26 | Dart1: 10 | Dart2: 0 | Dart3: 8 | 
+28 | Dart1: 7 | Dart2: 9 | Dart3: 7 | 
+30 | Dart1: 6 | Dart2: 5 | Dart3: 9 | 
+32 | Dart1: 7 | Dart2: 5 | Dart3: 9 | 
+34 | Dart1: 1 | Dart2: 2 | Dart3: 1 | 
+36 | Dart1: 7 | Dart2: 3 | Dart3: 2 | 
+38 | Dart1: 9 | Dart2: 5 | Dart3: 3 | 
+40 | Dart1: 7 | Dart2: 7 | Dart3: 3 | 
+42 | Dart1: 7 | Dart2: 3 | Dart3: 6 | 
+===============================

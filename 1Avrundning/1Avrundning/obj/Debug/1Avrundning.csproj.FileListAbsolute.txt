@@ -1,0 +1,7 @@
+E:\1Avrundning\1Avrundning\bin\Debug\1Avrundning.exe.config
+E:\1Avrundning\1Avrundning\bin\Debug\1Avrundning.exe
+E:\1Avrundning\1Avrundning\bin\Debug\1Avrundning.pdb
+E:\1Avrundning\1Avrundning\obj\Debug\1Avrundning.csprojAssemblyReference.cache
+E:\1Avrundning\1Avrundning\obj\Debug\1Avrundning.csproj.CoreCompileInputs.cache
+E:\1Avrundning\1Avrundning\obj\Debug\1Avrundning.exe
+E:\1Avrundning\1Avrundning\obj\Debug\1Avrundning.pdb

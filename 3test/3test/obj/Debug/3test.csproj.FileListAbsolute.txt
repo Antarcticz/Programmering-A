@@ -1,0 +1,7 @@
+C:\Users\gummi\source\repos\3test\3test\bin\Debug\3test.exe.config
+C:\Users\gummi\source\repos\3test\3test\bin\Debug\3test.exe
+C:\Users\gummi\source\repos\3test\3test\bin\Debug\3test.pdb
+C:\Users\gummi\source\repos\3test\3test\obj\Debug\3test.csprojAssemblyReference.cache
+C:\Users\gummi\source\repos\3test\3test\obj\Debug\3test.csproj.CoreCompileInputs.cache
+C:\Users\gummi\source\repos\3test\3test\obj\Debug\3test.exe
+C:\Users\gummi\source\repos\3test\3test\obj\Debug\3test.pdb

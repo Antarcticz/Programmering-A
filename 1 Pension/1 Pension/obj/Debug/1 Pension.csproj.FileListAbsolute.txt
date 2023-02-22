@@ -1,0 +1,7 @@
+C:\Users\gummi\source\repos\1 Pension\1 Pension\bin\Debug\1 Pension.exe.config
+C:\Users\gummi\source\repos\1 Pension\1 Pension\bin\Debug\1 Pension.exe
+C:\Users\gummi\source\repos\1 Pension\1 Pension\bin\Debug\1 Pension.pdb
+C:\Users\gummi\source\repos\1 Pension\1 Pension\obj\Debug\1 Pension.csprojAssemblyReference.cache
+C:\Users\gummi\source\repos\1 Pension\1 Pension\obj\Debug\1 Pension.csproj.CoreCompileInputs.cache
+C:\Users\gummi\source\repos\1 Pension\1 Pension\obj\Debug\1 Pension.exe
+C:\Users\gummi\source\repos\1 Pension\1 Pension\obj\Debug\1 Pension.pdb

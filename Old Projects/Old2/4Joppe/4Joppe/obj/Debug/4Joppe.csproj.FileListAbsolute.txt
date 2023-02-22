@@ -1,0 +1,7 @@
+C:\Users\gummi\source\repos\4Joppe\4Joppe\bin\Debug\4Joppe.exe.config
+C:\Users\gummi\source\repos\4Joppe\4Joppe\bin\Debug\4Joppe.exe
+C:\Users\gummi\source\repos\4Joppe\4Joppe\bin\Debug\4Joppe.pdb
+C:\Users\gummi\source\repos\4Joppe\4Joppe\obj\Debug\4Joppe.csprojAssemblyReference.cache
+C:\Users\gummi\source\repos\4Joppe\4Joppe\obj\Debug\4Joppe.csproj.CoreCompileInputs.cache
+C:\Users\gummi\source\repos\4Joppe\4Joppe\obj\Debug\4Joppe.exe
+C:\Users\gummi\source\repos\4Joppe\4Joppe\obj\Debug\4Joppe.pdb

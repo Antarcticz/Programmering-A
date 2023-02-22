@@ -1,0 +1,7 @@
+C:\Users\gummi\source\repos\3Lottobollar\3Lottobollar\bin\Debug\3Lottobollar.exe.config
+C:\Users\gummi\source\repos\3Lottobollar\3Lottobollar\bin\Debug\3Lottobollar.exe
+C:\Users\gummi\source\repos\3Lottobollar\3Lottobollar\bin\Debug\3Lottobollar.pdb
+C:\Users\gummi\source\repos\3Lottobollar\3Lottobollar\obj\Debug\3Lottobollar.csprojAssemblyReference.cache
+C:\Users\gummi\source\repos\3Lottobollar\3Lottobollar\obj\Debug\3Lottobollar.csproj.CoreCompileInputs.cache
+C:\Users\gummi\source\repos\3Lottobollar\3Lottobollar\obj\Debug\3Lottobollar.exe
+C:\Users\gummi\source\repos\3Lottobollar\3Lottobollar\obj\Debug\3Lottobollar.pdb

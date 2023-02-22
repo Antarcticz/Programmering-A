@@ -1,0 +1,7 @@
+C:\Users\gummi\source\repos\Slumpt tal\Slumpt tal\bin\Debug\Slumpt tal.exe.config
+C:\Users\gummi\source\repos\Slumpt tal\Slumpt tal\bin\Debug\Slumpt tal.exe
+C:\Users\gummi\source\repos\Slumpt tal\Slumpt tal\bin\Debug\Slumpt tal.pdb
+C:\Users\gummi\source\repos\Slumpt tal\Slumpt tal\obj\Debug\Slumpt tal.csprojAssemblyReference.cache
+C:\Users\gummi\source\repos\Slumpt tal\Slumpt tal\obj\Debug\Slumpt tal.csproj.CoreCompileInputs.cache
+C:\Users\gummi\source\repos\Slumpt tal\Slumpt tal\obj\Debug\Slumpt tal.exe
+C:\Users\gummi\source\repos\Slumpt tal\Slumpt tal\obj\Debug\Slumpt tal.pdb
